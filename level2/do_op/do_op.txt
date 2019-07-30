@@ -1,0 +1,5 @@
+Write a program that 3 strings:
+-The first and third represent signed integers
+-The second one is an arithmetic operator +,-,*,/,%
+
+Display the result of the operation.
