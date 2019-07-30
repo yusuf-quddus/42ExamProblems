@@ -1,0 +1,4 @@
+Write a program that takes a string and displays the first 'a' charecter
+followed by a newline. If there are no 'a' charecters display 'a' 
+followed by a newline. If there are more than 1 parameters, display 'a'
+followed by a newline. 

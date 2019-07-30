@@ -1,0 +1,2 @@
+Write a program that takes a string and displays it repeating each alphabet charecter
+as many times as it alphabetical index

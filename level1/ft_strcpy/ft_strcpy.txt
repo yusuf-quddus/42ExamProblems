@@ -1,0 +1,1 @@
+Reproduce the behavior of strcpy (man strcpy).

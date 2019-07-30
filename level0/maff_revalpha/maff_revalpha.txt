@@ -1,0 +1,4 @@
+Write a program that displays the alphbet in reverse order with even 
+letters in uppercase and odd letters in lowecase.
+
+Ex: zYxWvUtS...

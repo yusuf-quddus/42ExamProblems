@@ -1,0 +1,1 @@
+write a function that converts a string argument into an integer type and returns it

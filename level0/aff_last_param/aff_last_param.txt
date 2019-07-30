@@ -1,0 +1,2 @@
+write a program that takes strings as inputs and displays the last parameter
+followed by a newline.

@@ -1,0 +1,2 @@
+This program takes 3 arguments. A string, the letter they want to replace and
+the letter we want to replace the previous argument with 
