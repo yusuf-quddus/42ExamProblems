@@ -1,0 +1,2 @@
+Write a program that takes a positive integer as an argument and displays the 
+sum of all prime number bellow or equal to it
