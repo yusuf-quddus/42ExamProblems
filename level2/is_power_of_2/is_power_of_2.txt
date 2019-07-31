@@ -1,0 +1,2 @@
+Write a function that determines if a given number is a power of two.
+If so return 1, if not return 0.
