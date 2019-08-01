@@ -1,0 +1,2 @@
+Write a program that takes two strings and displays, without doubles, ther 
+charecters that appear in both strings in the order they appear in the first.
