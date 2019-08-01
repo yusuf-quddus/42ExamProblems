@@ -1,0 +1,2 @@
+write a program that takes two strings and displays 1 followed by a newline 
+if the first string is hidden in the second one, otherwise display a newline
