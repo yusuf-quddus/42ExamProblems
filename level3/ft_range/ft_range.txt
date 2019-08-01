@@ -1,0 +1,3 @@
+Create a function that takes a starting and end value. 
+Allocate with malloc an array of integers, fill it with with consecutive integers
+starting at the end and ending at the start. Return the first of the array.
